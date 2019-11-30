@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_FightPro", "Selenium_FightPro\Selenium_FightPro.csproj", "{AC5E32C6-E93E-4A97-A96C-B24C0C5ACD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5E32C6-E93E-4A97-A96C-B24C0C5ACD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5E32C6-E93E-4A97-A96C-B24C0C5ACD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5E32C6-E93E-4A97-A96C-B24C0C5ACD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5E32C6-E93E-4A97-A96C-B24C0C5ACD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE77F984-0477-4E1D-ACAF-908FFB678BEC}
+	EndGlobalSection
+EndGlobal
